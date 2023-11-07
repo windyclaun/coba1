@@ -1,0 +1,50 @@
+122
+wilis k
+alpro
+10
+
+123
+rifki indra
+jaringan komputer
+12
+
+145
+taufiq
+kalkulus
+8
+
+122
+wilis k
+matriks vektor
+16
+
+187
+bayu
+statistika
+14
+
+190
+mangaras
+algo advanced
+8
+
+166
+Hafsah_AK
+sistem informasi
+12
+
+199
+nhc
+logika informatika
+23
+
+185
+bu_yuni
+pancasila
+13
+
+897
+ines
+kalkulus
+2
+
